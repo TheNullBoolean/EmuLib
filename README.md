@@ -1,5 +1,5 @@
-# EmuTarkov-EmuLib
-EmuTarkov-EmuLib
+# EmuLib
+Adds functionality to the game.
 
 ## Requirements
 - Escape From Tarkov 0.12.3.5985
